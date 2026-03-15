@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+temp
+exports
+*.local
+.vsc
+.idea
+.DS_Store
+package-lock.json
+build
